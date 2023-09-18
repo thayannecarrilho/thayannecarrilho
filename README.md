@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**thayannecarrilho/thayannecarrilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="Thay_git.png">
+<div align "center">
+<b>
+  
+(っ＾▿＾)💨 
+  
+---
+<p>⚡30y</p>
+<p>📍 Manauara morando em São Paulo/SP</p>
+<p>🎓Análise e Desenvolvimento de Sistemas - SENAC/SP</p>
+<p>🌱Aprendendo mais sobre: <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code></p>
+<p></p>✉ thayannescarrilho@gmail.com</p> </b> 
+</div>
