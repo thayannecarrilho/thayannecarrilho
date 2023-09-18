@@ -1,4 +1,4 @@
-<img src="Thay_git.png">
+<img src="thay_git2.png">
 <div align "center">
 <b>
   
