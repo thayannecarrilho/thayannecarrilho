@@ -15,3 +15,4 @@
 <p></p>✉ thayannescarrilho@gmail.com</p> </b> 
 </div>
 
+![thayannecarrilho GitHub stats](https://github-readme-stats.vercel.app/api?username=thayannecarrilho&show_icons=true&theme=radical)
