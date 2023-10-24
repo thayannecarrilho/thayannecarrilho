@@ -15,4 +15,4 @@
 <p></p>✉ thayannescarrilho@gmail.com</p> </b> 
 </div>
 
-:[snake_gif](https://github.com/thayannecarrilho/thayannecarrilho/blob/output/github-contribution-grid-snakes.sgv)
+![snake gif](https://github.com/thayanne/thayanne/blob/output/github-contribution-grid-snake.svg)
