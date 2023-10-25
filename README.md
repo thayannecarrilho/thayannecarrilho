@@ -15,8 +15,6 @@
 <p></p>✉ thayannescarrilho@gmail.com</p> </b> 
 </div>
 
-![thayannecarrilho GitHub stats](https://github-readme-stats.vercel.app/api?username=thayannecarrilho&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayannecarrilho&theme=tokyonight)
+![thayannecarrilho GitHub stats](https://github-readme-stats.vercel.app/api?username=thayannecarrilho&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayannecarrilho&theme=tokyonight)
 
 
