@@ -17,4 +17,6 @@
 
 ![thayannecarrilho GitHub stats](https://github-readme-stats.vercel.app/api?username=thayannecarrilho&show_icons=true&theme=jolly)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?thayannecarrilho=CharalambosIoannou&theme=tokyonight)
+
 
