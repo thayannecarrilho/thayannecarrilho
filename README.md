@@ -7,6 +7,7 @@
 ---
 <p>⚡30y</p>
 <p>📍São Paulo/SP</p> <hr>
+<p>📚Full-Stack Developer - SENAC/SP</p>
 <p>🎓Análise e Desenvolvimento de Sistemas - SENAC/SP</p>
 <p>🌱Aprendendo mais sobre:</p>
 
