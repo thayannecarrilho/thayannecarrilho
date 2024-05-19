@@ -1,17 +1,17 @@
 <img src="thay_git2.png">
 <div align "center">
-<b>
+
   
 (っ＾▿＾)💨 
   
 ---
 <p>⚡30y</p>
-<p>📍São Paulo/SP</p> <hr>
-<p>🎨Aspirante a Front-End</p> <hr>
+<p>📍São Paulo/SP</p> 
+<p>🎨Aspirante a Front-End</p> 
 <p>📚Full-Stack Developer - SENAC/SP</p>
-<p>🎓Análise e Desenvolvimento de Sistemas - SENAC/SP</p>
+<p>🎓Análise e Desenvolvimento de Sistemas - SENAC/SP</p> <hr>
 
-#<a href="https://thayanne-carrilho.onrender.com/">Acesse meu Portifólio aqui!</a>
+## <a href="https://thayanne-carrilho.onrender.com/">Acesse meu Portifólio aqui!</a> <hr>
 
 
 ##<p>🤹🏼Ótimas habilidades em:</p>
