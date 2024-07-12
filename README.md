@@ -22,8 +22,6 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/> React</code></p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"/> MySQL</code></p>
-<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png](https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=512)" alt="figma"/> Figma</code></p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress"/> Wordpress</code></p>
 <hr>
 <h3>Entre em contato comigo:</h3>
 <p>✉ thayannescarrilho@gmail.com</p> </b> 
