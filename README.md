@@ -5,7 +5,7 @@
 (っ＾▿＾)💨 <a href="https://thayanne-carrilho-f2me.onrender.com/">Acesse meu Portifólio aqui!</a> 
   
 ---
-<p>⚡30y</p>
+<p>⚡31y</p>
 <p>📍São Paulo/SP</p> 
 <p>🎨Aspirante a Front-End</p> 
 <p>📚Full-Stack Developer - SENAC/SP</p>
